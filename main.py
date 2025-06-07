@@ -26,7 +26,7 @@ def get_next_temperature(current_temp):
     if next_temp > 100:
         next_temp = 1
     return next_temp
-#kkk
+#kkk kkkk
 # HTML template for the webpage
 def webpage(temperature, state):
     html = f"""
